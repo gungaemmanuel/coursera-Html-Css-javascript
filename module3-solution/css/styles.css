@@ -1,0 +1,63 @@
+body {
+	font-family: 'Comfortaa', cursive;
+	font-size: 14px;
+  
+}
+
+/** HEADER **/
+h1{
+	color: #141316;
+	margin-top: 10px;
+	font-weight: 700;
+}
+
+.navbar{
+	background-color: #999999;
+	border: 3px solid #141316;
+	border-radius: 0;
+}
+
+.navbar-default .navbar-header{
+	padding-left: 1em;
+}
+.navbar-brand{
+	padding: 0 15px;
+}
+.navbar-default .navbar-toggle{
+	margin-bottom: 0px;
+	margin-top: 10px;
+	border: 2px solid #141316;
+}
+.navbar-default .navbar-toggle .icon-bar{
+	border: 2px solid #141316;
+	font-size: 2em;
+}
+.navbar-collapse{
+	padding: 0;
+}
+.navbar-nav{
+	margin: 0px;
+}
+.navbar-nav>li{
+	border-top: 3px solid black;
+	padding: 8px;
+	font-weight: 900;
+}
+
+
+/** End HEADER **/
+
+/** Main Content **/
+h2, h3 {
+	font-weight: 800;
+}
+
+div.row{
+	padding: 0em 4em;
+	margin-bottom: 20px;
+}
+
+div#chicken{
+	background-color: #999999;
+}
+
